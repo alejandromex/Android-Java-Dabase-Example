@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DatabaseExample</string>
+    <string name="hint_name">Put Your Name</string>
+    <string name="hint_age">Put your age</string>
+    <string name="btn_insert">Insert</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_selectAll">Select All</string>
+    <string name="hint_search_name">Name to search</string>
+    <string name="hint_search_delete">Name to delete</string>
 </resources>
